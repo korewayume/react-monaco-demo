@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-monaco-demo/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-monaco-demo/static/js/main.27b10d07.chunk.js",
+    "main.js.map": "/react-monaco-demo/static/js/main.27b10d07.chunk.js.map",
+    "runtime-main.js": "/react-monaco-demo/static/js/runtime-main.7cace39a.js",
+    "runtime-main.js.map": "/react-monaco-demo/static/js/runtime-main.7cace39a.js.map",
+    "static/js/2.cc6ee50f.chunk.js": "/react-monaco-demo/static/js/2.cc6ee50f.chunk.js",
+    "static/js/2.cc6ee50f.chunk.js.map": "/react-monaco-demo/static/js/2.cc6ee50f.chunk.js.map",
+    "index.html": "/react-monaco-demo/index.html",
+    "precache-manifest.fcd8a90975d450a267f47b4891884d82.js": "/react-monaco-demo/precache-manifest.fcd8a90975d450a267f47b4891884d82.js",
+    "service-worker.js": "/react-monaco-demo/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-monaco-demo/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.cc6ee50f.chunk.js.LICENSE.txt": "/react-monaco-demo/static/js/2.cc6ee50f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7cace39a.js",
+    "static/js/2.cc6ee50f.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.27b10d07.chunk.js"
+  ]
+}
