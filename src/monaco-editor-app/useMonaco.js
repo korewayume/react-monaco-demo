@@ -1,6 +1,6 @@
 import {useState, useRef, useEffect} from "react";
 import {monaco as monacoPlugin} from "@monaco-editor/react";
-import {initLanguage} from "./hive-language";
+import {initLanguage} from "./hiveLanguage";
 
 export default function () {
   const [monaco, setMonaco] = useState(null)

@@ -1,0 +1,18 @@
+.SQLEditor {
+  height: 100vh;
+  display: flex;
+  flex-flow: column nowrap;
+  /*border: 1px solid;*/
+}
+
+.SQLEditor > section {
+  flex: 1 1 auto;
+}
+
+.SQLEditor > button {
+  flex: none;
+}
+
+.SQLEditor button + button {
+  margin-left: 10px;
+}
